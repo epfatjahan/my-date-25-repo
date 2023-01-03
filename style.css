@@ -1,0 +1,159 @@
+ 
+ * {
+      
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+width: cover;
+margin: auto;
+}
+.nav_container{
+    background-color: lightgray;
+    height: 70px;
+    padding: 15px;
+    overflow: hidden;
+}
+
+.logo_div, .logo_div h1{
+    display: inline;
+}
+
+.left_menu{
+    float:left;
+    padding-top: 5px;
+}
+.left_menu ul{
+    text-align: left;
+    font-weight: bold;
+    font-style: serif;
+    text-transform: capitalize;
+    list-style-type: none;
+    display: inline;
+    padding-left:30px;
+     
+} 
+.left_menu ul li{
+    padding-left:20px
+}
+.right_menu{
+    padding-top:10px;
+    float:right;
+}
+.right_menu ul{
+    text-align: right;
+    font-weight:normal;
+    font-style: serif;
+    text-transform: capitalize;
+    list-style-type: none;
+    display: inline;
+    padding-right: 40px;
+}
+.right_menu ul li{
+    padding-right:20px;
+}
+.right_menu ul li a, .left_menu ul li a{
+    text-decoration: none; 
+    color:black;
+}
+.left_menu ul li, .right_menu li,h3 {
+    display: inline ;
+}
+
+.button  {
+    background-color: green;
+    background-size: cover;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    text-overflow: hidden;
+    margin-top: -10px;
+    border: none;
+
+   
+}
+.button a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+
+}
+
+.right_menu ul li .button{
+    padding-bottom: 2px;
+}
+
+.div1{
+    background-color:  rgba(3, 3, 63, 0.878);
+    height: 300px;
+    width: cover;
+    overflow: hidden;
+   
+}
+.div1 h1{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px;
+    padding-top: 30px;
+}
+p{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.button2{
+    background-color: green;
+    background-size: cover;
+    border-radius: 1px;
+    position: relative;
+    margin-top: 20px;
+    border-color: black;
+    padding: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.button2 a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 15px;
+   
+
+}
+.div2 {
+    margin: auto;
+    text-align: center;
+    width: 12%;
+}
+.div3{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

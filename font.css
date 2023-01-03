@@ -1,0 +1,51 @@
+#container{
+  margin: auto;
+  padding: 10px;
+  width: 1000px;
+  display: relative;
+  background-color: blueviolet;
+}
+
+#aqua{
+      color: black;
+      background-color: aqua;
+      font-size: 30px;
+      font-weight: lighter;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: oblique;
+      text-align: center;
+      display: inherit;
+      padding: 30px;
+      border:  6px solid blue;
+      border-style: dotted;}
+     
+
+.red{
+    color: black;
+    background-color: blanchedalmond;
+    background-image: none;
+    background-position: left bottom;
+    background-size: 250px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    text-overflow: hidden;
+    text-shadow: 2px 3px 4px gray;
+    display: inherit;
+    padding: 25px;
+    border:3px solid red ;
+}
+.blue{
+    display: inherit;
+    background-color: lightpink;
+    color: blue;
+    text-align: right;
+    text-decoration: wavy underline rgb(109, 109, 172);
+    text-transform: lowercase;
+    font-size: 20px;
+    font-weight: italic;
+    padding: 20px;
+    border-style: dashed ;
+    border: 5px solid black;
+}
